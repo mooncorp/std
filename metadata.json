@@ -1,0 +1,17 @@
+{
+  "name": "MyFungibleToken",
+  "symbol": "MFT",
+  "description": "MyFungibleToken is a sample SPL token with Metaplex metadata. Replace this description with your own details.",
+  "image": "https://tinyurl.com/y7knfru2",
+  "external_url": "https://example.com",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "YOUR_WALLET_PUBLIC_KEY_HERE",
+        "share": 100
+      }
+    ]
+  }
+}
